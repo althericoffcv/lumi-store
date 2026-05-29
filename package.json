@@ -1,0 +1,29 @@
+{
+  "name": "lumi-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lumi Store — Premium Online Store by Altheric Official",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./node_modules/vite/bin/vite.js",
+    "build": "node ./node_modules/vite/bin/vite.js build",
+    "preview": "node ./node_modules/vite/bin/vite.js preview"
+  },
+  "author": "Altheric Official",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/core": "^8.3.4",
+    "axios": "^1.16.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.16.0",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.3.4",
+    "@capacitor/cli": "^8.3.4",
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.14",
+    "vite-plugin-pwa": "^1.3.0"
+  }
+}

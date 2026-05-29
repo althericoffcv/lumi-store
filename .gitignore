@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.*
+!.env.example
+
+# Android
+android/build/
+android/app/build/
+android/app/src/main/assets/public/
+android/.gradle/
+android/local.properties
+
+# Capacitor
+capacitor.config.json.orig

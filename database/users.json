@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "username": "Lumi",
+    "password": "LumiStore",
+    "nama": "Admin Lumi",
+    "whatsapp": "628123456789",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]

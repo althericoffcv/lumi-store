@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds Pro",
+    "description": "High-quality wireless earbuds with active noise cancellation, crystal clear audio, and 24h battery life. Premium sound experience.",
+    "price": 299000,
+    "category": "Electronics",
+    "stock": 50,
+    "sold": 128,
+    "thumbnail": "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=400&h=400&fit=crop",
+    "createdAt": "2026-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Minimalist Watch Silver",
+    "description": "Elegant minimalist watch with stainless steel case, sapphire crystal glass, and genuine leather strap. Japanese movement.",
+    "price": 459000,
+    "category": "Fashion",
+    "stock": 30,
+    "sold": 89,
+    "thumbnail": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=400&h=400&fit=crop",
+    "createdAt": "2026-01-20T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Canvas Tote Bag",
+    "description": "Premium canvas tote bag with reinforced handles. Spacious interior with inner pocket. Perfect for daily use.",
+    "price": 149000,
+    "category": "Fashion",
+    "stock": 100,
+    "sold": 234,
+    "thumbnail": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=400&h=400&fit=crop",
+    "createdAt": "2026-02-01T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "LED Desk Lamp",
+    "description": "Modern LED desk lamp with adjustable brightness, color temperature control, and USB charging port. Eye-care technology.",
+    "price": 189000,
+    "category": "Home",
+    "stock": 75,
+    "sold": 156,
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057ab6fe?w=400&h=400&fit=crop",
+    "createdAt": "2026-02-10T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard RGB",
+    "description": "Full RGB mechanical keyboard with hot-swappable switches, PBT keycaps, and programmable macros. Gasket mount design.",
+    "price": 549000,
+    "category": "Electronics",
+    "stock": 25,
+    "sold": 67,
+    "thumbnail": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=400&h=400&fit=crop",
+    "createdAt": "2026-02-15T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Aromatherapy Diffuser",
+    "description": "Ultrasonic essential oil diffuser with 7 LED color lights, timer function, and whisper-quiet operation. 300ml capacity.",
+    "price": 179000,
+    "category": "Home",
+    "stock": 60,
+    "sold": 198,
+    "thumbnail": "https://images.unsplash.com/photo-1602928321679-560bb453f190?w=400&h=400&fit=crop",
+    "createdAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Waterproof portable Bluetooth 5.3 speaker with 360° surround sound, 20h playtime, and built-in microphone.",
+    "price": 349000,
+    "category": "Electronics",
+    "stock": 40,
+    "sold": 312,
+    "thumbnail": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop",
+    "createdAt": "2026-03-10T10:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Skincare Set Premium",
+    "description": "Complete skincare routine set with cleanser, toner, serum, moisturizer, and sunscreen. All-natural ingredients.",
+    "price": 399000,
+    "category": "Beauty",
+    "stock": 35,
+    "sold": 445,
+    "thumbnail": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&h=400&fit=crop",
+    "createdAt": "2026-03-15T10:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Coffee Dripper Set",
+    "description": "Pour-over coffee dripper set with borosilicate glass server, stainless steel filter, and measuring scoop. 600ml.",
+    "price": 219000,
+    "category": "Home",
+    "stock": 45,
+    "sold": 178,
+    "thumbnail": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop",
+    "createdAt": "2026-04-01T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Running Shoes Ultra",
+    "description": "Lightweight running shoes with responsive cushioning, breathable mesh upper, and durable rubber outsole. Unisex.",
+    "price": 599000,
+    "category": "Fashion",
+    "stock": 20,
+    "sold": 87,
+    "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop",
+    "createdAt": "2026-04-10T10:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Slim design with LED indicator and anti-slip surface.",
+    "price": 129000,
+    "category": "Electronics",
+    "stock": 80,
+    "sold": 267,
+    "thumbnail": "https://images.unsplash.com/photo-1586816879360-004f5b0c51e3?w=400&h=400&fit=crop",
+    "createdAt": "2026-04-20T10:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Scented Candle Set",
+    "description": "Hand-poured soy wax scented candle set. 3 premium fragrances: Lavender Dream, Vanilla Blossom, and Ocean Breeze.",
+    "price": 169000,
+    "category": "Home",
+    "stock": 55,
+    "sold": 342,
+    "thumbnail": "https://images.unsplash.com/photo-1602607688066-d2c9440512e9?w=400&h=400&fit=crop",
+    "createdAt": "2026-05-01T10:00:00Z"
+  }
+]
